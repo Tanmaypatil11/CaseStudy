@@ -1,2 +1,4 @@
 # CaseStudy
-Collection of data and solving problems with there conditions
+Collection of data and solving problems with there conditions.
+
+## Data Analytic
